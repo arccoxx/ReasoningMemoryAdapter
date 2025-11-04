@@ -1,3 +1,4 @@
+(https://colab.research.google.com/drive/1UphKe8gValkFeYFjUc6SFrSq_aPWTJdu?usp=sharing)
 ### **Report: Architecture and Mechanism of the GNN Memory Adapter**
 
 **1. High-Level Overview: Giving the LLM a "Working Memory"**
